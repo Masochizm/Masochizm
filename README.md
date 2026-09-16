@@ -12,7 +12,6 @@
   <img src="https://github.com/user-attachments/assets/9cfb2109-0972-41c3-9b9e-14347782a16d" alt="Image">
 </p>
 
-
 <p align="center">
-  <img width="150" height="20" alt="gyaru" src="https://github.com/user-attachments/assets/2a9796b8-e1b8-41ef-9115-01a446e14a4c" />
+  <a href="https://masochizms-kins.straw.page">KINS (˵◝ ⩊ ◜˵マ</a>
 </p>
