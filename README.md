@@ -7,10 +7,10 @@
 </p>
 
 
-
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9cfb2109-0972-41c3-9b9e-14347782a16d" alt="Image">
+  <img src="https://github.com/user-attachments/assets/6ceb7487-2124-4e2d-920f-ca50e9bb6253" alt="mail google" width="600" />
 </p>
+
 
 <p align="center">
   <a href="https://masochizms-kins.straw.page">KINS (˵◝ ⩊ ◜˵マ</a>
