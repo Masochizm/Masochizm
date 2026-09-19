@@ -1,3 +1,10 @@
+<p align="center">$\color{#911d14}\text{" I've seen theses lonely deaths be died I'm no stranger to the sight, }$
+</p>
+
+<p align="center">$\color{#570f0a}\text{It doesn't even move me."}$
+</p>
+
+
 <p align="center">
   <img width="300" height="40" alt="0190-hittingfloor" src="https://github.com/user-attachments/assets/142f0fe2-bc03-46ba-90b6-aac3808504d5" />
   
