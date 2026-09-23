@@ -1,8 +1,4 @@
-<p align="center">$\color{#911d14}\text{" I've seen theses lonely deaths be died I'm no stranger to the sight, }$
-</p>
 
-<p align="center">$\color{#570f0a}\text{It doesn't even move me."}$
-</p>
 
 
 <p align="center">
