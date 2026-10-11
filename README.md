@@ -7,8 +7,7 @@
   <img width="300" height="40" alt="0190-hittingfloor" src="https://github.com/user-attachments/assets/142f0fe2-bc03-46ba-90b6-aac3808504d5" />
   
  <p align="center">
-  <strong>Woah WOAH, the one and only Senjuro kin...IT'S ME!</strong>
-</p>
+
 
 
 
