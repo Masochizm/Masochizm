@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://iamsenyuki.straw.page">StrawPage</a>
-  &nbsp;|&nbsp;
+ &nbsp;
   <a href="https://senjurosn1.atabook.org/">ata</a>
 </p>
 
