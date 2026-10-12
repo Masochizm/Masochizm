@@ -1,8 +1,9 @@
 <p align="center">
- &nbsp;
+  &nbsp;
   <a href="https://senjurosn1.atabook.org/">ata</a>
+  &nbsp;·&nbsp;
+  <a href="https://iamsenyuki.straw.page">strawpage</a>
 </p>
-
 
 <p align="center">
   <img width="300" height="40" alt="0190-hittingfloor" src="https://github.com/user-attachments/assets/142f0fe2-bc03-46ba-90b6-aac3808504d5" />
