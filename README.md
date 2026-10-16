@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1000&color=B61212&center=true&vCenter=true&width=432&height=52&lines=%22To+hurt+myself%2C+is+to+feel+more+human.%22" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=18&pause=1000&color=B61212&center=true&vCenter=true&width=432&height=52&lines=%22I+will+be+alone+for+a+long+time.%22" alt="Typing SVG"></a>
 </p>
 
 
